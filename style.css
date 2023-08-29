@@ -1,0 +1,13 @@
+#myCanvas{
+    width: 400px;
+    height: 400px;
+    border: solid gray 1px;
+
+}
+.box{
+    background-color: red;
+    border: solid 6px black;
+    padding: 10px;
+    margin: 10px;
+
+}
